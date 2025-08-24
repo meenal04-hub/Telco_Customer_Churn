@@ -84,3 +84,6 @@ Models were evaluated using:
 - Develop a **real-time churn prediction dashboard**.  
 
 ---
+
+## 👩‍💻 Author
+**Meenal Gaikwad**
